@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "cappuccino_axis_center"
+version = "1.0.0"
+name = "Cappuccino - Axis Center"
+tagline = "Align object origin/pivot using sliders or cursor"
+maintainer = "a.k.a Luckycuky <luckycuky@gmail.com>"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later"
+]
